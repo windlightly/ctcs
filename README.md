@@ -15,4 +15,5 @@ A program used in Simplified Chinese Characters（zh-cn） and Traditional Chine
 
 开源项目：
 - [opencc](https://github.com/BYVoid/OpenCC)
-- 
+- [mcdc 现代汉语词典词汇表](https://github.com/windlightly/mcdc)
+- [ChineseCharacters- 中文繁简对照表](https://github.com/lqfeng/ChineseCharacters)
